@@ -1,3 +1,7 @@
 modify the repository
 create new branch
+<<<<<<< HEAD
 modify in dev 2
+=======
+modify in main
+>>>>>>> a50caa3 (commit in main)
